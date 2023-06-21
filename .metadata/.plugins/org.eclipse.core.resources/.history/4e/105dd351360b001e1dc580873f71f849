@@ -1,0 +1,20 @@
+
+public class EjemploCondicionales {
+
+	public static void main(String[] arg) {
+
+		System.out.println("Hellow World");
+
+		int edad = 28;
+
+		if (edad >= 18) {
+			System.out.println("Usted puede ingresar");
+		}else {
+			System.out.println("usted no esta permitido a" + 
+		" entrar");
+		}
+		System.out.println("Bienvenido");
+
+	}
+
+}

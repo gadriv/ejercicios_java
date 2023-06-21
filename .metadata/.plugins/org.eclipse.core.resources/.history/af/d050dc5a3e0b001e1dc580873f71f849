@@ -1,0 +1,22 @@
+//USO DEL CASE SWITCH
+
+public class IdentificarMes {
+	
+	public static void main(String[] args) {
+		
+		int mes  = 4;
+		
+		switch (mes) {
+		case 1: {
+			
+			System.out.println("El mes es enero");
+			break;
+		}
+		default:
+			throw new IllegalArgumentException("Unexpected value: " + mes);
+		}
+	}
+	
+	
+
+}

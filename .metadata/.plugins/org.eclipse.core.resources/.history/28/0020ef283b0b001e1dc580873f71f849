@@ -1,0 +1,29 @@
+
+public class EjemploScope {
+	
+	//ESTO ES REFERENTE A LOS SCOPE
+	
+	public static void main(String[] args) {
+
+		System.out.println("Hellow World");
+
+		int edad = 19;
+		int cantPersona = 2;
+
+		double esPareja;
+		
+		
+
+		if (cantPersona >= 1) {
+			
+			esPareja = true;
+		} else {
+			esPareja = false;
+		}
+		
+		boolean puedeEntrar = edad >= 18 && esPareja;
+		
+
+	}
+
+}

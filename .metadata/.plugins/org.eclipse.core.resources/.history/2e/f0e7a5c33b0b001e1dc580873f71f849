@@ -1,0 +1,11 @@
+
+public class TestSalario {
+	public static void main(String[] args) {
+		boolean fuePromovido = true;
+		
+		if (fuePromovido) {
+			
+		}
+		
+	}
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;primeros_pasos_con_java&apos;" deleteContents="false" description="Delete resource &apos;primeros_pasos_con_java&apos;" element1="/primeros_pasos_con_java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1686801040190"/>&#x0A;<refactoring comment="Delete resource &apos;java_primeros pasos&apos;" deleteContents="false" description="Delete resource &apos;java_primeros pasos&apos;" element1="/java_primeros pasos" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1686801083472"/>
+</session>
